@@ -13,3 +13,4 @@ cufflinks
 wordcloud
 pyvis
 statsmodels
+seaborn
