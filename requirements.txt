@@ -12,3 +12,4 @@ lxml
 cufflinks
 wordcloud
 pyvis
+statsmodels
